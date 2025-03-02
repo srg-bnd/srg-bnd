@@ -1,16 +1,24 @@
-## Hi there 👋
+<details>
+  <summary>Resume</summary>
 
-<!--
-**srg-bnd/srg-bnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```go
+[]Skill{
+	Skill("Golang"),
+	Skill("Ruby on Rails"),
+	Skill("SQL"),
+	Skill("JS"),
+	Skill("Linux"),
+},
+[]Perfomance{
+	Perfomance{"Flant",    "Lead Fullstack Developer", "07-2020", "09-2024"},
+	Perfomance{"Sequenia", "Backend Developer",        "07-2019", "07-2020"},
+	Perfomance{"Elecard",  "Fullstack Developer",      "12-2018", "07-2019"},
+	Perfomance{"Lama",     "SQL Developer",            "10-2018", "12-2018"},
+},
+[]Education{
+	Education{"Yandex", "AaDS & Advanced Go"},
+	Education{"TUSUR",  "Business Informatics"},
+},
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
