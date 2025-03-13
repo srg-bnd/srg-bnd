@@ -3,11 +3,17 @@
 
 ```go
 []Skill{
-	Skill("Golang"),
+	// Advanced
 	Skill("Ruby on Rails"),
-	Skill("SQL"),
-	Skill("JS"),
+	// Middle
+	Skill("Go"),
+	Skill("PostgreSQL"),
 	Skill("Linux"),
+	Skill("Git"),
+	// Basic
+	Skill("Vue.js"),
+	Skill("Docker"),
+	Skill("K8s"),
 },
 []Perfomance{
 	Perfomance{"Flant",    "Lead Fullstack Developer", "07-2020", "09-2024"},
