@@ -1,21 +1,10 @@
-<details>
-  <summary>Resume</summary>
+### :man_technologist: About Me :
 
-```go
-[]Perfomance{
-	Perfomance{"Flant",    "Lead Fullstack Developer", "07-2020", "09-2024"},
-	Perfomance{"Sequenia", "Backend Developer",        "07-2019", "07-2020"},
-	Perfomance{"Elecard",  "Fullstack Developer",      "12-2018", "07-2019"},
-	Perfomance{"Lama",     "SQL Developer",            "10-2018", "12-2018"},
-},
-[]Education{
-	Education{"Yandex", "AaDS & Advanced Go"},
-	Education{"TUSUR",  "Business Informatics"},
-},
-```
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications since 2018.
 
-</details>
+- :zap: In my free time, I solve problems on CodeRun and read tech articles.
 
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-srg_bnd-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/s/srg_bnd)
 
 ### :hammer_and_wrench: Languages and Tools :
 
