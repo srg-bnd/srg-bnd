@@ -1,9 +1,9 @@
 ```ruby
-  print "Hello, world!"
+  puts "Hello, world!"
 ```
 
 ```go
-  fmt.Print("Hello, world!")
+  fmt.Println("Hello, world!")
 ```
 
 ```js
