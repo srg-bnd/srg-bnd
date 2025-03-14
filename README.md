@@ -1,13 +1,7 @@
-```ruby
-  puts "Hello, world!"
-```
-
-```go
-  fmt.Println("Hello, world!")
-```
-
-```js
-  console.log("Hello, world!")
+```golang
+  for I.Happy() {
+    go I.Work()
+  }
 ```
 
 ### :man_technologist: About Me :
