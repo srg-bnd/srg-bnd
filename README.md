@@ -2,11 +2,11 @@
   print "Hello, world!"
 ```
 
-```golang
+```go
   fmt.Print("Hello, world!")
 ```
 
-```javascript
+```js
   console.log("Hello, world!")
 ```
 
