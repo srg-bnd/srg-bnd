@@ -2,8 +2,6 @@
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications since 2018.
 
-- :zap: In my free time, I solve problems on CodeRun and read tech articles.
-
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-srg_bnd-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/s/srg_bnd)
 
 ---
