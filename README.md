@@ -4,12 +4,6 @@
 
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-srg_bnd-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/s/srg_bnd)
 
-```golang
-  for I.Happy() {
-    go I.Work()
-  }
-```
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
