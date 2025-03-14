@@ -1,3 +1,15 @@
+```ruby
+  print "Hello, world!"
+```
+
+```golang
+  fmt.Print("Hello, world!")
+```
+
+```javascript
+  console.log("Hello, world!")
+```
+
 ### :man_technologist: About Me :
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications since 2018.
