@@ -22,3 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="Kubernetes" **alt="Kubernetes" width="40" height="40"/>
 </div>
+
+### :fire: Stats :
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srg-bnd&show_icons=true&theme=dark)
