@@ -1,10 +1,11 @@
 ### About Me
 
-- :telescope: I’m a Fullstack Software Engineer since 2018
+💻 I’m a Fullstack Software Engineer since 2018
 
-- :student: Bachelor's degree in Computer Science from 2019
+🎓 Bachelor's degree in Computer Science from 2019
 
-- :mailbox: How to reach me: [@srg_bnd](https://t.me/s/srg_bnd)
+✉ How to reach me: [@srg_bnd](https://t.me/s/srg_bnd)
+
 ---
 
 ### Languages and Tools
