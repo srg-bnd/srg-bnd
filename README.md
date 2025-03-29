@@ -1,6 +1,6 @@
 ### About Me
 
-- :telescope: I’m a fullstack developer since 2018
+- :telescope: I’m a Fullstack Software Engineer since 2018
 
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-srg_bnd-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/s/srg_bnd)
 
