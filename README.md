@@ -2,6 +2,8 @@
 
 - :telescope: I’m a Fullstack Software Engineer since 2018
 
+- :student: Bachelor's degree in Computer Science from 2019
+
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-srg_bnd-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/s/srg_bnd)
 
 ---
