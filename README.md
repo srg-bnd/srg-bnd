@@ -4,8 +4,7 @@
 
 - :student: Bachelor's degree in Computer Science from 2019
 
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-srg_bnd-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/s/srg_bnd)
-
+- :mailbox: How to reach me: [@srg_bnd](https://t.me/s/srg_bnd)
 ---
 
 ### Languages and Tools
