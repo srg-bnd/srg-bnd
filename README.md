@@ -1,4 +1,4 @@
-### :man_technologist: About Me :
+### About Me
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications since 2018.
 
@@ -6,7 +6,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
@@ -25,6 +25,6 @@
 
 ---
 
-### :fire: Stats :
+### Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srg-bnd&show_icons=true&theme=dark)
