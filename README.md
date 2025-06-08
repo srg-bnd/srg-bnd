@@ -1,6 +1,6 @@
 ### About Me
 
-💻 I’m a Backend Software Engineer since 2018
+💻 I’m a Software Engineer since 2018
 
 🎓 Bachelor's degree in Computer Science from 2019
 
