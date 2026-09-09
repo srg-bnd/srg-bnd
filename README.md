@@ -2,7 +2,7 @@
 
 💻 I’m a Software Engineer with love for Architecture from Karaganda
 
-🎓 Bachelor's degree in Computer Science in Tomsk
+🎓 Bachelor's degree in Computer Science at Tomsk
 
 👾 I’m interested in game design at Moscow MIPT
 
