@@ -4,7 +4,7 @@
 
 🎓 Bachelor's degree in Computer Science at Tomsk
 
-👾 Studying game design at Moscow MIPT
+👾 Studying game design at MIPT
 
 ✉ How to reach me: [@srg_bnd](https://t.me/s/srg_bnd)
 
