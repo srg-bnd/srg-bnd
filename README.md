@@ -1,10 +1,10 @@
 ### About Me
 
-💻 Software engineer with love architecture from Karaganda
+💻 Software engineer with love architecture from [Karaganda](https://en.wikipedia.org/wiki/Karaganda)
 
-🎓 Bachelor's degree in Computer Science at Tomsk
+🎓 Bachelor's degree in Computer Science at [Tomsk](https://en.wikipedia.org/wiki/Tomsk)
 
-👾 Studying game design & computer graphics at MIPT
+👾 Studying game design & computer graphics at [MIPT](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology)
 
 ---
 
