@@ -6,8 +6,6 @@
 
 👾 Studying game design & computer graphics at MIPT
 
-✉ How to reach me: [@srg_bnd](https://t.me/s/srg_bnd)
-
 ---
 
 ### Languages and Tools
