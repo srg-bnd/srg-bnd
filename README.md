@@ -1,10 +1,10 @@
 ### About Me
 
-💻 I’m a Software Engineer since 2018
+💻 I’m a Software Engineer from Karaganda
 
-🎓 Bachelor's degree in Computer Science from 2019
+🎓 Bachelor's degree in Computer Science in Tomsk
 
-👾 I’m interested in game design
+👾 I’m interested in game design in MIPT
 
 ✉ How to reach me: [@srg_bnd](https://t.me/s/srg_bnd)
 
