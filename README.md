@@ -4,6 +4,8 @@
 
 🎓 Bachelor's degree in Computer Science from 2019
 
+👾 I’m interested in game design
+
 ✉ How to reach me: [@srg_bnd](https://t.me/s/srg_bnd)
 
 ---
